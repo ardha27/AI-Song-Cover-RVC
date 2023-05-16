@@ -1,6 +1,7 @@
 # AI-Song-Cover-RVC
 All in One Version : Youtube WAV Download, Separating Vocal, Splitting Audio, Training, and Inference Using Google Colab.
 ## Leave A Star if This Repo Was Helpful
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R7AH1FA)
 
 ### Tutorial (Indonesian)
 https://youtu.be/mcbz_n6_w_A
