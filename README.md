@@ -14,3 +14,6 @@ https://youtu.be/mcbz_n6_w_A
 
 ### Training and Inference (Stored in GDrive)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/RVC_Training.ipynb)
+
+### Training and Inference V2.0 (Stored in GDrive)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/RVC_Training.ipynb)
