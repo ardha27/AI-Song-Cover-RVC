@@ -7,7 +7,8 @@ All in One Version : Youtube WAV Download, Separating Vocal, Splitting Audio, Tr
 </a>
 
 ### Tutorial (Indonesian)
-https://youtu.be/mcbz_n6_w_A
+https://youtu.be/mcbz_n6_w_A (v1)
+https://youtu.be/Rnp8DzH7G_k (v2)
 
 ### Download Youtube WAV and Splitting Audio (Stored in GDrive)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/Download_Youtube_WAV_and_Splitting_Audio.ipynb)
