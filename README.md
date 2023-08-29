@@ -1,6 +1,6 @@
 # AI-Song-Cover-RVC
 All in One Notebook: Youtube WAV Download, Separating Vocal, Splitting Audio, Training, and Inference Using Google Colab.<br>
-By combining into a single notebook, both trainer and YouTube WAV downloader can be used within an account.
+By combining into a single notebook, both trainer and YouTube WAV downloader can be used within seconds.
 ### Make Sure To Leave A Star if This Repo Was Helpful :)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R7AH1FA)
 <a href="https://trakteer.id/ardha27">
