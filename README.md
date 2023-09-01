@@ -1,7 +1,7 @@
 # AI-Song-Cover-RVC
-All in One Notebook: Youtube WAV Download, Separating Vocal, Splitting Audio, Training, and Inference Using Google Colab.<br>
-By combining into a single notebook, both trainer and YouTube WAV downloader can be used within seconds.
-### Make Sure To Leave A Star if This Repo Was Helpful :)
+All in One Repository: Youtube WAV Download, Separating Vocal, Splitting Audio, Training, and Inference Using Google Colab.<br>
+**NEW!** All in One Notebook is created! With this, you can change between Trainer and Downloader in seconds.
+### Make Sure To Leave A Star If This Repo Was Helpful :)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R7AH1FA)
 <a href="https://trakteer.id/ardha27">
     <img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" alt="Trakteer" height="35">
@@ -27,4 +27,4 @@ NOTICE: This link will reach you to MinatoIsuki repository, not Ardha.<br>
 This link will be changed in the future.<br>
 <br>
 RVC Training V2 and Youtube Audio Download & Splitting Audio script by Ardha<br>
-All combined by Minato Isuki
+All in One Notebook by Minato Isuki
