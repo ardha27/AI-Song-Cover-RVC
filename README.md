@@ -1,6 +1,5 @@
 # AI-Song-Cover-RVC
-All in One Repository: Youtube WAV Download, Separating Vocal, Splitting Audio, Training, and Inference Using Google Colab or Kaggle.<br>
-**NEW!** All in One Notebook is created! With this, you can change between Trainer and Downloader in seconds.
+All in One Repository: Youtube WAV Download, Separating Vocal, Splitting Audio, Training, and Inference Using Google Colab or Kaggle.
 ### Make Sure To Leave A Star If This Repo Was Helpful :)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R7AH1FA)
 <a href="https://trakteer.id/ardha27">
@@ -19,17 +18,11 @@ All in One Repository: Youtube WAV Download, Separating Vocal, Splitting Audio, 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/RVC_Training.ipynb)
 
 ### Training and Inference V2.0 (Stored in GDrive)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/RVC_TrainingV2.ipynb)
-[![Open In Kaggle](https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg)](https://www.kaggle.com/code/ardhasemaranatha/rvc-v2-kaggle)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/RVC_TrainingV2.ipynb) or 
+[![Open In Kaggle](https://img.shields.io/badge/-Open%20in%20Kaggle-blue?style=flat&logo=kaggle&logoColor=white&labelColor=grey)](https://www.kaggle.com/code/ardhasemaranatha/rvc-v2-kaggle)
 
 ### All in One Inference by SociallyIneptWeeb
-[![Open In Kaggle](https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg)](https://www.kaggle.com/code/ardhasemaranatha/aicovergen-kaggle)
+[![Open In Kaggle](https://img.shields.io/badge/-Open%20in%20Kaggle-blue?style=flat&logo=kaggle&logoColor=white&labelColor=grey)](https://www.kaggle.com/code/ardhasemaranatha/aicovergen-kaggle)
 
 ### Training V2 and Youtube Audio Download & Splitting Audio all combined (Stored in GDrive)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MinatoIsuki/AI-Song-Cover-RVC/blob/main/Training_V2_and_Youtube_Audio_Download_%26_Splitting_Audio_combined.ipynb)<br>
-<br>
-NOTICE: This link will reach you to MinatoIsuki repository, not Ardha.<br>
-This link will be changed in the future.<br>
-<br>
-RVC Training V2 and Youtube Audio Download & Splitting Audio script by Ardha<br>
-All in One Notebook by Minato Isuki
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MinatoIsuki/AI-Song-Cover-RVC/blob/main/Training_V2_and_Youtube_Audio_Download_%26_Splitting_Audio_combined.ipynb)
