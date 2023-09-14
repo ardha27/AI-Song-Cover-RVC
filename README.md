@@ -19,9 +19,12 @@ All in One Repository: Youtube WAV Download, Separating Vocal, Splitting Audio, 
 
 ### Training and Inference V2.0 (Stored in GDrive)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/RVC_TrainingV2.ipynb)
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/RVC_TrainingV2_NoUI.ipynb) (Without UI/Gradio, Prevent Banning)
 - [![Open In Kaggle](https://img.shields.io/badge/-Open%20in%20Kaggle-blue?style=flat&logo=kaggle&logoColor=white&labelColor=grey)](https://www.kaggle.com/code/ardhasemaranatha/rvc-v2-kaggle)
 
+### Training Without UI/Gradio, Prevent Banning
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/Download_Training_Assets.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/TrainingV2_NoUI.ipynb)
+- 
 ### All in One Inference by SociallyIneptWeeb
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AICoverGen-NoUI-Colab/blob/main/CoverGen_No_UI.ipynb) (Without UI/Gradio, Prevent Banning)
 - [![Open In Kaggle](https://img.shields.io/badge/-Open%20in%20Kaggle-blue?style=flat&logo=kaggle&logoColor=white&labelColor=grey)](https://www.kaggle.com/code/ardhasemaranatha/aicovergen-kaggle)
