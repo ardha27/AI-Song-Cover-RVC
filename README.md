@@ -21,8 +21,9 @@ All in One Repository: Youtube WAV Download, Separating Vocal, Splitting Audio, 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/RVC_TrainingV2.ipynb)
 - [![Open In Kaggle](https://img.shields.io/badge/-Open%20in%20Kaggle-blue?style=flat&logo=kaggle&logoColor=white&labelColor=grey)](https://www.kaggle.com/code/ardhasemaranatha/rvc-v2-kaggle)
 
-### Training Without UI/Gradio, Prevent Banning
+### Download Traning Assets
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/Download_Training_Assets.ipynb)
+- ### Training Without UI/Gradio, Prevent Banning
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/TrainingV2_NoUI.ipynb)
 
 ### All in One Inference by SociallyIneptWeeb
