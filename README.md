@@ -20,6 +20,9 @@ Read this [tutorial](https://noteardha.notion.site/noteardha/RVC-Training-69e456
 ### Run Training (Run Upper One First)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/TrainingV2_NoUI.ipynb)
 
+## AICoverGen Mod by Me & Hina (Colab Free)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ardha27/AI-Song-Cover-RVC/blob/main/Hina_Mod_AICoverGen_colab.ipynb)
+
 ## All in One Inference by SociallyIneptWeeb (Without UI, Colab Pro Only)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AICoverGen-NoUI-Colab/blob/main/CoverGen_No_UI.ipynb)
 
