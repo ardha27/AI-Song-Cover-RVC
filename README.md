@@ -7,8 +7,10 @@ All in One Repository: Youtube WAV Download, Separating Vocal, Splitting Audio, 
 </a>
 
 ## Tutorial (Indonesian)
-### RVC V2 Tutorial
-- https://youtu.be/Rnp8DzH7G_k (v2)
+### RVC Colab Free Tutorial (Training & Inference)
+- https://www.youtube.com/watch?v=oTum0CIGwns
+### AICoverGen Colab Free Tutorial (Inference)
+- https://www.youtube.com/watch?v=Nd2b-MEynAg
 
 ## Download YouTube WAV and Splitting Audio
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/Download_Youtube_WAV_and_Splitting_Audio.ipynb)
@@ -23,7 +25,7 @@ Read this [tutorial](https://noteardha.notion.site/noteardha/RVC-Training-69e456
 ## AICoverGen Mod by Me & Hina (Colab Free)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ardha27/AI-Song-Cover-RVC/blob/main/Hina_Mod_AICoverGen_colab.ipynb)
 
-## All in One Inference by SociallyIneptWeeb (Without UI, Colab Pro Only)
+## AICoverGen by SociallyIneptWeeb (Without UI, Colab Pro Only)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AICoverGen-NoUI-Colab/blob/main/CoverGen_No_UI.ipynb)
 
 ## Training V2 and Youtube Audio Download & Splitting Audio Combined by MinatoIsuki (With UI, Colab Pro Only)
