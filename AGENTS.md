@@ -29,7 +29,7 @@ environment by hand:
   published for it)
 - `huggingface_hub==0.23.4` (newer `huggingface_hub` removed `HfFolder`, which `gradio==4.29`
   imports at top level)
-- `setuptools<81` (`pyworld` still imports `pkg_resources`, removed from `setuptools>=81`)
+- `setuptools<81` (`pyworld` still imports `pkg_resources`; still bundled in setuptools 81.x, removed starting `setuptools>=82`, so this pin stays one version ahead of the actual removal)
 - `ffmpeg`, `sox`
 
 ## 2. The default run has no bundled RVC voice model
